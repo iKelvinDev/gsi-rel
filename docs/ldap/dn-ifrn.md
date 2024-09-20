@@ -51,9 +51,7 @@ OU=RE
 OU=IFRN
 ```
 
-### As OUs representam as Unidades Organizacionais dentro da estrutura LDAP. No exemplo, temos várias OUs.
-
-#### Essas OUs organizam o objeto em diferentes subunidades hierárquicas, como descrito abaixo:
+### Essas OUs organizam o objeto em diferentes subunidades hierárquicas, como descrito abaixo:
 
 ```bash
 OU=Alunos: Unidade organizacional de estudantes.

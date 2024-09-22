@@ -1,5 +1,11 @@
 # Instalação do Samba como Controlador de Domínio do Active Directory no Alpine Linux
 
+!!! note "Observações"
+
+    1. Ausência de configuração do nome da máquina
+    2. O pacote `samba-tools` é uma alucinação do ChatGPT
+    3. Documentação incompatível com que [foi feito em sala de aula](https://asciinema.org/a/671958) e com a [Wiki do Alpine](https://wiki.alpinelinux.org/wiki/Setting_up_a_samba-ad-dc).
+
 ## Introdução
 
 Este guia descreve como instalar e configurar o Samba como um controlador de domínio do Active Directory no Alpine Linux, com o domínio pernambuco.lab.

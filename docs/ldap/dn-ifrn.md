@@ -1,5 +1,10 @@
 # Explicação de DN do LDAP no IFRN
 
+!!! note "Observações"
+
+    Uso excessivo de cabeçalhos.
+
+
 ### A Distinguished Name (DN) é o caminho completo de um objeto dentro do diretório LDAP. Ele representa a localização hierárquica exata de um objeto no diretório.
 
 ### O DN fornece uma descrição completa da hierarquia onde o objeto está localizado no LDAP. O DN completo no IFRN é:
